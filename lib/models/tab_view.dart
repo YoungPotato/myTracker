@@ -1,0 +1,4 @@
+enum TabView {
+  healthyHabits,
+  unhealthyHabits,
+}
